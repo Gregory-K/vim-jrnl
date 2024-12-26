@@ -1,1 +1,1 @@
-autocmd BufRead,BufNewFile jrnl*.txt set ft=jrnl
+autocmd BufRead,BufNewFile *.jrnl set ft=jrnl
